@@ -1,0 +1,6 @@
+Scrapes lottery drawing data from random sources on the internet.
+
+Running
+----
+
+python3 -m lotto_scraper.run
